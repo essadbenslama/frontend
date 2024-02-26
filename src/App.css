@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  background-color: rgb(43, 1, 14);
+}
+
+.listContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 150px;
+  justify-content: space-around;
+  margin-left: 10px;
+}
